@@ -99,7 +99,7 @@ from emp_record_table ;
 -- 2nd half of the problem statement
 select count(*) As No_Of_Reporters from emp_record_table;
 
--- Sadiq
+-- 
 -- self join
 select * from emp_record_table;
 
